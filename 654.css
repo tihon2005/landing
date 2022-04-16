@@ -1,0 +1,96 @@
+body {
+    font-family: Vollkorn;
+    font-size: 18px;
+    padding-top: 65px;
+    padding-left: 375px;
+    padding-right: 375px;    
+}
+
+.cat {
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    align-items: center;
+}
+
+.pog {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+}
+
+.main {
+    padding-top: 75px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 45px;
+    letter-spacing: 3px;
+    font-weight: normal;
+}
+
+.btn {
+    padding-top: 30px;
+    position: absolute;
+    top: 370px;
+}
+
+.butt {
+    background: #6A85E3;
+    color: white;
+    border: 0;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Vollkorn;
+    text-decoration: none;
+    display: block;
+    width: 190px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    letter-spacing: 1px;
+}
+
+.butt:hover {
+    background: #5d79e0;
+}
+
+.butt:active {
+    background: #3556cc;
+}
+
+.lt {
+    margin-top: 100px;
+    font-size: 15px;
+    background: #EAEAEA;
+    height: 130px;
+    width: 420px;
+    text-align: 30px;
+    padding-top: 30px;
+    position: absolute;
+    top: 460px;
+}
+
+.kj {
+    margin-left: 22px;
+}
+
+.hj {
+    margin-left: 22px;
+}
+
+.fca {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.ref {
+    position: absolute;
+    top: 350px;
+}
+.kim {
+    letter-spacing: 1px;
+}
